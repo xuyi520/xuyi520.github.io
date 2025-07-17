@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://xuyi520.github.io/xuyi.jpg" class="floatpic">
+<img src="https://xuyi520.github.io/xuyi.jpg" class="floatpic" width = "360" height = "480" >
 
 Here is **Xu Yi (Ian, 许逸)**.<br>
 
