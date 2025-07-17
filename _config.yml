@@ -13,22 +13,22 @@ url: https://caihanlin.com
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Xu Yi
+  avatar: xuyi.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: yixu@mail.bnu.edu.cn
+  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  bilibili: 594030035
+  # twitter: lancecai2002
+  github: xuyi520
+  # linkedin: hanlincai
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  # zhihu: https://www.zhihu.com/people/chlire
+  # xiaohongshu: 5c27848f0000000005030c6f
+  # bilibili: 594030035
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -38,7 +38,7 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
