@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xu Yi (Ian, 许逸)**.  
 
-I am a recent graduate with a Master of Applied Psychology (Psychological & and BehavioralBIG Data) from Beijing Normal University, recognized as an Outstanding Graduate Student (2025) and recipient of the Second-Class Master's Scholarship. 
+I am a recent graduate with a Master of Applied Psychology (Psychological & and BehavioralBIG Data) from Beijing Normal University, recognized as an Outstanding Graduate Student (2025) and recipient of the Second-Class Master's Scholarship.
 
 In my recent research, I address the long-standing controversy over the replicability of ego depletion effects by introducing a novel framework rooted in complex dynamical systems. Traditional ego depletion studies have often relied on linear models, seeking main effects between depletion and control groups. However, these models have struggled to explain the high variability and frequent replication failures observed in ego depletion research.
 
@@ -16,7 +16,8 @@ My main contribution is to reconceptualize self-control as a dynamic interplay b
 
 Starting Sep 2025, I will join the **Joint AI & Psychology Laboratory** (a collaboration between The Chinese University of Hong Kong, Shenzhen and University of Science and Technology of China) as a full-time Research Assistant, working in Shenzhen under the supervision of [Dr. Zhicheng Lin](https://psy.ustc.edu.cn/2024/0116/c27895a628502/page.htm). My future research will focus on the intersection of artificial intelligence and psychology,centering on the intersection of artificial intelligence and cognitive science. Specifically:
 - Using AI and computational modeling to investigate human cognitive and psychological mechanisms, aiming to better understand complex behaviors and mental processes.
-- Leveraging insights from cognitive science and psychology to inspire and improve artificial intelligence algorithms, making AI systems more human-like, adaptive, and interpretable.<br>
+- Leveraging insights from cognitive science and psychology to inspire and improve artificial intelligence algorithms, making AI systems more human-like, adaptive, and interpretable.
+
 Ultimately, my goal is to promote bidirectional integration between AI and cognitive science, advancing both our understanding of the human mind and the development of next-generation intelligent systems.
 
 If you are interested in my research or potential collaboration, please feel free to contact me.
