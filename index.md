@@ -15,8 +15,7 @@ My main contribution is to reconceptualize self-control as a dynamic interplay b
 
 Starting Sep 2025, I will join the **Joint AI & Psychology Laboratory** (a collaboration between The Chinese University of Hong Kong, Shenzhen and University of Science and Technology of China) as a full-time Research Assistant, working in Shenzhen under the supervision of [Dr. Zhicheng Lin](https://psy.ustc.edu.cn/2024/0116/c27895a628502/page.htm). My future research will focus on the intersection of artificial intelligence and psychology,centering on the intersection of artificial intelligence and cognitive science. Specifically:
 - Using AI and computational modeling to investigate human cognitive and psychological mechanisms, aiming to better understand complex behaviors and mental processes.
-- Leveraging insights from cognitive science and psychology to inspire and improve artificial intelligence algorithms, making AI systems more human-like, adaptive, and interpretable.
-
+- Leveraging insights from cognitive science and psychology to inspire and improve artificial intelligence algorithms, making AI systems more human-like, adaptive, and interpretable.<br>
 Ultimately, my goal is to promote bidirectional integration between AI and cognitive science, advancing both our understanding of the human mind and the development of next-generation intelligent systems.
 
 If you are interested in my research or potential collaboration, please feel free to contact me.
