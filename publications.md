@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+<!-- > (†: equal contribution, ~: corresponding author) -->
 
 ## Journal Paper
 
@@ -30,7 +30,7 @@ Presented at the 13th Academic Conference of Chinese Psychologists.<br>
 
 ---
 
-## Early Project
+<!-- ## Early Project
 
 - [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
 
@@ -38,9 +38,9 @@ Presented at the 13th Academic Conference of Chinese Psychologists.<br>
 
   <br>
 
----
+--- -->
 
-## Degree Thesis
+<!-- ## Degree Thesis
 
 - Semantic Communicaiton for the Internet of Everything: From Molecules to Universe<br>Hanlin Cai (Advisor: Ozgur B. Akan).
 
@@ -50,4 +50,4 @@ Presented at the 13th Academic Conference of Chinese Psychologists.<br>
 
   <br>
 
-<br>
+<br> -->
