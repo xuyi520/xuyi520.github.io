@@ -18,6 +18,7 @@ Starting Sep 2025, I will join the **Joint AI & Psychology Laboratory** (a colla
 - Using AI and computational modeling to investigate human cognitive and psychological mechanisms, aiming to better understand complex behaviors and mental processes.
 - Leveraging insights from cognitive science and psychology to inspire and improve artificial intelligence algorithms, making AI systems more human-like, adaptive, and interpretable.
 
+
 Ultimately, my goal is to promote bidirectional integration between AI and cognitive science, advancing both our understanding of the human mind and the development of next-generation intelligent systems.
 
 If you are interested in my research or potential collaboration, please feel free to contact me.
