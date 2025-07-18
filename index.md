@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xu Yi (Ian, 许逸)**.  
 
-I am a recent graduate with a Master of Applied Psychology (Psychological & and BehavioralBIG Data) from Beijing Normal University, recognized as an Outstanding Graduate Student (2025) and recipient of the Second-Class Master's Scholarship.
+I am a recent graduate with a Master of Applied Psychology (Psychological & and BehavioralBIG Data) from Beijing Normal University, recognized as an Outstanding Graduate Student (2025).
 
 In my recent research, I address the long-standing controversy over the replicability of ego depletion effects by introducing a novel framework rooted in complex dynamical systems. Traditional ego depletion studies have often relied on linear models, seeking main effects between depletion and control groups. However, these models have struggled to explain the high variability and frequent replication failures observed in ego depletion research.
 
