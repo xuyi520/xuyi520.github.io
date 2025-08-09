@@ -33,16 +33,18 @@ minimal_mistakes_skin: air
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
-  - title: About Me
+  - title: About Me
     url: /
   - title: Publications
     url: /publications/
+  - title: CV
+    url: /cv/
+  - title: Blog
+    url: /blog/
   - title: Awards
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
   # - title: 中文
   #   url: /cn/
 
@@ -66,12 +68,3 @@ plugins:
   - jekyll-sitemap       # Auto-generate sitemap.xml
   - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
 #  - jekyll-picture-tag   # Responsive images & WebP/AVIF
-
-# --------------------------------------------------
-#  CUSTOM CSS
-#  Specify additional CSS files to override or extend the theme.  Paths
-#  should be relative to the site root (beginning with a slash).  This
-#  setting ensures that the `/assets/css/custom.css` file is loaded
-#  automatically by the Minimal Mistakes theme.
-custom_css:
-  - /assets/css/custom.css  # MODIFIED: include custom stylesheet for site tweaks

@@ -1,0 +1,91 @@
+/*
+ * Custom CSS overrides for Xu Yi's personal site.
+ *
+ * These styles aim to modernize the visual appearance of the site by
+ * introducing new fonts, a refined accent colour and subtle design tweaks.
+ * To activate this file, add it to the `custom_css` section of your
+ * `_config.yml`, e.g.:
+ *
+ * custom_css:
+ *   - /assets/css/custom.css
+ */
+
+/* Import Google Fonts for headings and body text */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700&display=swap');
+
+/* Define CSS variables to centralize font and colour choices */
+:root {
+  /* Primary accent colour used for links, bullets and highlights */
+  --mm-color-accent: #0077b6; /* MODIFIED: set a fresh blue accent */
+  /* Base font for body text */
+  --mm-font-family-base: 'Inter', sans-serif; /* MODIFIED: modern sans-serif for readability */
+  /* Font for headings */
+  --mm-font-family-heading: 'Playfair Display', serif; /* MODIFIED: elegant serif for headings */
+}
+
+/* Apply the new base font to the entire document */
+body {
+  font-family: var(--mm-font-family-base);
+}
+
+/* Use the heading font for all headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--mm-font-family-heading);
+  letter-spacing: 0.5px;
+}
+
+/* Update link colours to use the accent variable and add a subtle hover effect */
+a {
+  color: var(--mm-color-accent);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+a:hover {
+  color: darken(var(--mm-color-accent), 10%);
+  text-decoration: underline;
+}
+
+/* Give the avatar a circular shape and a light drop shadow */
+.author__avatar img {
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Emphasize navigation links and improve hover feedback */
+.greedy-nav .visible-links a {
+  font-weight: 600;
+  padding: 0.5rem 0.75rem;
+}
+.greedy-nav .visible-links a:hover {
+  background-color: rgba(0, 119, 182, 0.05);
+  border-radius: 4px;
+}
+
+/* Style skill lists with coloured bullets */
+ul.skills-list li {
+  list-style: none;
+  position: relative;
+  padding-left: 1.25em;
+  margin-bottom: 0.5em;
+}
+ul.skills-list li::before {
+  content: '\2022';
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--mm-color-accent);
+  font-weight: bold;
+}
+
+/* Optional: card styling for publications or project lists */
+.card {
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+}
+.card h3 {
+  margin-top: 0;
+}
