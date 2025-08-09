@@ -8,14 +8,8 @@ title: Publications
 
 ## Journal Paper
 
-<!-- - [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
-  
-  
-  
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br> -->
-
-- **Xu, Y**., Chan, H, Ran, Z., & Xu, J.-P. (2025). Activation or Depletion? Challenging Linear Models of Ego Depletion. <br>Submitted under review for Acta Psychologica.<br>
-- Ran, Z., **Xu, Y**., & Xu, J.-P. (2025). Individual emotion beliefs are associated with affective distress and emotion regulation styles.<br>Submitted under review for Current Psychology. 
+- [**Xu, Y**., Chan, H, Ran, Z., & Xu, J.-P. (2025). Activation or Depletion? Challenging Linear Models of Ego Depletion. *Acta Psychologica*, 259, 105346.](https://doi.org/10.1016/j.actpsy.2025.105346)<br>
+- Ran, Z., **Xu, Y**., & Xu, J.-P. (2025). Individual emotion beliefs are associated with affective distress and emotion regulation styles.<br>under review at Current Psychology. 
 
 ## Conference Paper
 
@@ -30,17 +24,7 @@ Presented at the 13th Academic Conference of Chinese Psychologists.<br>
 
 ---
 
-<!-- ## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-  <br>
-
---- -->
-
-<!-- ## Degree Thesis
+ <!-- ## Degree Thesis
 
 - Semantic Communicaiton for the Internet of Everything: From Molecules to Universe<br>Hanlin Cai (Advisor: Ozgur B. Akan).
 
@@ -48,6 +32,4 @@ Presented at the 13th Academic Conference of Chinese Psychologists.<br>
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China HUADING Tech.<br>
 
-  <br>
-
-<br> -->
+  <br> -->

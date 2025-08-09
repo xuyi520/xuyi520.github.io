@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xu Yi (Ian, 许逸)**.  
 
-I am a recent graduate with a Master of Applied Psychology (Psychological & and BehavioralBIG Data) from Beijing Normal University, recognized as an Outstanding Graduate Student (2025).
+I am a recent graduate with a Master of Applied Psychology (Psychological & BehavioralBIG Data) from Beijing Normal University, recognized as an Outstanding Graduate Student (2025).
 
 In my recent research, I address the long-standing controversy over the replicability of ego depletion effects by introducing a novel framework rooted in complex dynamical systems. Traditional ego depletion studies have often relied on linear models, seeking main effects between depletion and control groups. However, these models have struggled to explain the high variability and frequent replication failures observed in ego depletion research.
 
@@ -31,18 +31,6 @@ If you are interested in my research or potential collaboration, please feel fre
 - Cognitive Science & Artificial Intelligence
 - AI and Human Behavior
 - Metascience
-
----
-
-<!-- ## News and Updates
-
-- **July 2025:** Joining the Joint AI & Psychology Laboratory (CUHK-Shenzhen & USTC) as a full-time Research Assistant in Shenzhen, supervised by Dr. Zhicheng Lin.
-- **2025:** Graduated as Outstanding Graduate Student from Beijing Normal University (Zhuhai).
-- **2024–2025:** Served as Teaching Assistant for Psychometrics and Management Psychology, and as a Lecturer for Psychological Statistics.
-- **2024:** Collaborated with Zhaopin on capability assessment for campus recruitment.
-- **2024–2025:** Research accepted by the 9th World Congress on Positive Psychology and APS Annual Convention (not attended due to scheduling).
-
---- -->
 
 ## Skills
 
