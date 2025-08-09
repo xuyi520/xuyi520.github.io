@@ -22,7 +22,6 @@ Presented at the Joint Academic Exchange Conference, BNU & Lingnan University.<b
 - Ran, Z., & **Xu, Y**. (2024). *The shaping role of emotional beliefs on emotion regulation: A mental health study*. 
 Presented at the 13th Academic Conference of Chinese Psychologists.<br>
 
----
 
  <!-- ## Degree Thesis
 
