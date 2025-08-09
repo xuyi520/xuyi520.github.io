@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xu Yi (Ian, 许逸)**.  
 
-I am a recent graduate with a Master of Applied Psychology (**Psychological & Behavioral BIG Data**) from Beijing Normal University. My latest research reconceptualizes self‑control as the dynamic interplay between depletion and activation, offering a fresh perspective to explain the variability and replication issues in ego‑depletion studies. Beginning **September 2025** I will join the **Joint AI & Psychology Laboratory** (a collaboration between The Chinese University of Hong Kong, Shenzhen and University of Science and Technology of China) as a full‑time research assistant to explore the intersection of AI and cognitive science, Sueived by **Dr. Zhicheng Lin**.
+I am a recent graduate with a Master of Applied Psychology (**Psychological & Behavioral BIG Data**) from Beijing Normal University. My latest research reconceptualizes self‑control as the dynamic interplay between depletion and activation, offering a fresh perspective to explain the variability and replication issues in ego‑depletion studies. Beginning **September 2025** I will join the **Joint AI & Psychology Laboratory** (a collaboration between The Chinese University of Hong Kong, Shenzhen and University of Science and Technology of China) as a full‑time research assistant to explore the intersection of AI and cognitive science, Supervised by **Dr. Zhicheng Lin**.
 
 ---
 
